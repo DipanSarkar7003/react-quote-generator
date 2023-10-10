@@ -1,0 +1,13 @@
+*{
+    background: rgb(49, 49, 49);
+    
+}
+.heading{
+/* margin: auto; */
+display: flex;
+align-items: center;
+justify-content: center;
+color: limegreen;
+border: none;
+}
+
